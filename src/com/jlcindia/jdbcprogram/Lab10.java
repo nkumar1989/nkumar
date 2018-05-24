@@ -3,6 +3,7 @@ import java.sql.*;
 import com.jlcindia.JDBCUtil.*;
 public class Lab10 {
 public static void main(String[] args) {
+	//this is second commit test.
 	Connection con=null;
 	Statement st=null;
 	try{
